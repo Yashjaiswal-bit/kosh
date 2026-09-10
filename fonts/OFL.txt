@@ -1,0 +1,13 @@
+Caprasimo and Figtree are licensed under the SIL Open Font License, Version 1.1.
+
+Caprasimo — Copyright (c) The Caprasimo Project Authors
+  https://fonts.google.com/specimen/Caprasimo
+Figtree — Copyright (c) The Figtree Project Authors
+  https://fonts.google.com/specimen/Figtree
+
+The full licence text is available at:
+  https://openfontlicense.org
+
+Under the OFL these fonts may be bundled and redistributed with this project,
+including in a modified or subsetted form, provided this notice travels with
+them and they are not sold on their own.
